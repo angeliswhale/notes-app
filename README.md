@@ -11,8 +11,7 @@
 
 | 介面總覽 | 便條紙背景色功能 |
 |:---:|:---:|
-| ![整體介面](images/overview.PNG) | ![背景色](images/colors.PNG) |
-
+| <img width="960" height="422" alt="overview" src="https://github.com/user-attachments/assets/f3b5e951-2da5-4acb-8006-20cc42daedac" /> | <img width="956" height="423" alt="colors" src="https://github.com/user-attachments/assets/0e7e784b-dbc9-431b-b231-dade14390a1a" /> |
 ---
 
 ## 功能列表 · Features
