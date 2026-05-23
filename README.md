@@ -52,7 +52,7 @@
 下載 index.html → 用瀏覽器開啟 → 開始使用
 
 
-**方法二：Clone 後開啟**
+**方法二：複製網址後開啟**
 
 複製 https://angeliswhale.github.io/notes-app/ → 開啟 → 開始使用
 
