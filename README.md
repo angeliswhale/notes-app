@@ -53,14 +53,10 @@
 
 **方法二：Clone 後開啟**
 
-git clone (https://angeliswhale.github.io/notes-app/)
-
+git clone https://angeliswhale.github.io/notes-app/
 cd notes-app
-
-open index.html  #macOS
-
-star index.html  #Windows
-
+open index.html   # macOS
+start index.html  # Windows
 ---
 
 ## 檔案結構 · File Structure
