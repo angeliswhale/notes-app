@@ -51,11 +51,15 @@
 
 下載 index.html → 用瀏覽器開啟 → 開始使用
 
-> **方法二：Clone 後開啟**
-> 
-> `git clone https://github.com/user/repository.git`
-> `cd notes-app`
+**方法二：Clone 後開啟**
 
+git clone (https://angeliswhale.github.io/notes-app/)
+
+cd notes-app
+
+open index.html  #macOS
+
+star index.html  #Windows
 
 ---
 
