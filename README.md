@@ -53,28 +53,8 @@
 
 
 **方法二：Clone 後開啟**
-bash
 
-git clone (https://angeliswhale.github.io/notes-app/)
-
-cd notes-app
-
-open index.html   # macOS
-
-start index.html  # Windows
-
-
----
-
-## 檔案結構 · File Structure
-
-
-notes-app/
-├── index.html          # 主程式（單一檔案，含 CSS 與 JS）
-├── screenshots/
-│   ├── overview.png    # 介面總覽截圖
-│   └── colors.png      # 背景色功能截圖
-└── README.md
+複製 https://angeliswhale.github.io/notes-app/ → 開啟 → 開始使用
 
 ---
 
