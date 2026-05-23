@@ -1,4 +1,3 @@
-<script>
 const COLORS=[
   {id:'white', bg:'#FFFFFF', label:'白色 · White'},
   {id:'yellow',bg:'#FFF9C4', label:'淡黃 · Yellow'},
@@ -210,4 +209,3 @@ searchInput.addEventListener('keyup',e=>{
 clearSearch.addEventListener('click',()=>{searchInput.value='';searchTerm='';clearSearch.style.display='none';renderSidebar();});
 
 load();
-</script>
