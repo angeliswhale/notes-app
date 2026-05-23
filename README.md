@@ -11,7 +11,7 @@
 
 | 介面總覽 | 便條紙背景色功能 |
 |:---:|:---:|
-| ![整體介面](screenshots/overview.png) | ![背景色](screenshots/colors.png) |
+| ![整體介面](overview.PNG) | ![背景色](colors.PNG) |
 
 ---
 
