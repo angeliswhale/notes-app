@@ -54,7 +54,7 @@
 
 **方法二：Clone 後開啟**
 ```bash
-git clone https://github.com/your-username/notes-app.git
+git clone (https://github.com/angeliswhale/notes-app.git)
 cd notes-app
 open index.html   # macOS
 start index.html  # Windows
