@@ -53,7 +53,7 @@
 
 
 **方法二：Clone 後開啟**
-bash
+
 git clone (https://angeliswhale.github.io/notes-app/)
 cd notes-app
 open index.html   # macOS
