@@ -3,7 +3,7 @@
 > 純前端實作的個人記事管理工具，無需伺服器，開啟即用。
 > A lightweight personal note-taking app built with vanilla HTML / CSS / JavaScript.
 
-🔗 **[線上展示 Live Demo](https://github.com/angeliswhale/notes-app.git)**
+🔗 **[線上展示 Live Demo](https://angeliswhale.github.io/notes-app/)**
 
 ---
 
@@ -54,7 +54,7 @@
 
 **方法二：Clone 後開啟**
 ```bash
-git clone (https://github.com/angeliswhale/notes-app.git)
+git clone (https://angeliswhale.github.io/notes-app/)
 cd notes-app
 open index.html   # macOS
 start index.html  # Windows
