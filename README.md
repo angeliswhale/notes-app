@@ -51,17 +51,23 @@
 
 下載 index.html → 用瀏覽器開啟 → 開始使用
 
+
 **方法二：Clone 後開啟**
 bash
-git clone https://github.com/your-username/notes-app.git
+
+git clone (https://angeliswhale.github.io/notes-app/)
+
 cd notes-app
+
 open index.html   # macOS
+
 start index.html  # Windows
 
 
 ---
 
 ## 檔案結構 · File Structure
+
 
 notes-app/
 ├── index.html          # 主程式（單一檔案，含 CSS 與 JS）
