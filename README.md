@@ -23,7 +23,7 @@
 - [x] 刪除操作 inline 確認，防止誤刪
 - [x] 資料持久化，關閉瀏覽器後不遺失（localStorage）
 - [x] 符合 WCAG AA 無障礙標準（對比度 ≥ 4.5:1）
-- [x] 無需安裝、無需網路，單一 HTML 檔案即可執行
+- [x] 無需安裝、無需伺服器，下載後直接開啟
 
 ---
 
@@ -69,7 +69,7 @@
 ## 作者 · Author
 
 **ChiaYu**
-NQUEE 國立金門大學電機工程學系
+國立金門大學電機工程學系 National Quemoy University, EE Dept.
 
 高二高三自主學習專案(大一優化版)
 
