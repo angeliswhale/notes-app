@@ -32,7 +32,7 @@
 | 項目 | 說明 |
 |------|------|
 | 語言 | HTML5 · CSS3 · JavaScript (ES6+) |
-| 儲存 | localStorage API |
+| 儲存 | LocalStorage API |
 | 無障礙 | WCAG 2.1 AA 標準驗證 |
 | 相依套件 | 無（零依賴） |
 
